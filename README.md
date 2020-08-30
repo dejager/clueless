@@ -1,2 +1,2 @@
 # Clueless
-An Xcode Playground with a MSL shader inspired by Cher Horowitz. As if.
+An Xcode MSL Playground. Inspired by Cher Horowitz, but kind of a Baldwin.
